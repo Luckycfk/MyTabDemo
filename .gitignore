@@ -1,0 +1,8 @@
+MyTabLayoutDemo/.gitignore
+MyTabLayoutDemo/gradlew
+MyTabLayoutDemo/gradlew.bat
+MyTabLayoutDemo/settings.gradle
+MyTabLayoutDemo/.idea/gradle.xml
+MyTabLayoutDemo/.idea/misc.xml
+MyTabLayoutDemo/.idea/modules.xml
+MyTabLayoutDemo/.idea/runConfigurations.xml
